@@ -1,0 +1,1 @@
+{"pandoc-api-version":[1,22,1],"meta":{},"blocks":[{"t":"Div","c":[["",["nicecol","onlytextwidth"],[["align","top,center"],["width","20%,80%"]]],[{"t":"Para","c":[{"t":"Str","c":"Content"},{"t":"Space"},{"t":"Str","c":"left"}]},{"t":"HorizontalRule"},{"t":"Para","c":[{"t":"Str","c":"Content"},{"t":"Space"},{"t":"Str","c":"right"}]}]]}]}
